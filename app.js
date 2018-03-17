@@ -35,4 +35,6 @@ function addNumbers1(number1, number2){
 
 addNumbers1(10, 10);
 
+// ******
+console.log("Hi, This is my second git commit");
 
