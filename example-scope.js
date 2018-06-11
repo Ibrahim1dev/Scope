@@ -1,13 +1,13 @@
 
 //SCOPE
 //Global variables
-var student1 = "Abel";
+var student1 = "Bella";
 var student2 = "Hana";
-var student3 = "Malu";
+var student3 = "Mike";
 
 //can access from every where
 //TEST 1 Global variabels
-console.log("Result: " + student1 + " < " + student2 + " < "+ student3); //Result: Abel < Hana < Malu
+console.log("Result: " + student1 + " < " + student2 + " < "+ student3); //Result: Bella < Hana < Mike
 
 //Test 2
 function isClever(stud){
@@ -34,6 +34,3 @@ function addNumbers1(number1, number2){
 }
 
 addNumbers1(10, 10);
-
-// ******
-console.log("Hi, This is my second git commit");
